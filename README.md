@@ -10,8 +10,7 @@
 ## pre-requisites 
  1. cmake 
  	- brew install cmake
- 2. 
-
+	
 ## using homebrew
 	'''
 	brew tap homebrew/science
